@@ -6,6 +6,7 @@
 #And if any file says Exynos 7870 Or does not say anything about J7 Prime are should be compatible with any other exynos 7870 device
 
 #What Will You Find Here
+
 *Roms
 
 
