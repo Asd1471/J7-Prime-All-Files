@@ -7,7 +7,15 @@
 
 #What Will You Find Here
 *Roms
+
+
 *Recoveries
+
+
 *Fixes
+
+
 *Stock Rom BL CP(Modem) CSC Files
+
+
 *And Maybe Some Gsi Files
