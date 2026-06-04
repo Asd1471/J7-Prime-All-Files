@@ -3,7 +3,7 @@
 
 # DO NOT USE THESE ON ANY OTHER DEVİCE ONLY J7 PRİME 
 
-# And if any file says Exynos 7870 Or does not say anything about J7 Prime should be compatible with any other exynos 7870 device
+# And if any file says Exynos 7870 Or does not say anything about J7 Prime it should be compatible with any other exynos 7870 device
 
 #What Will You Find Here
 
